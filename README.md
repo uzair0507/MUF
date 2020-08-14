@@ -1,1 +1,1 @@
-# MUF Introduction to ML
+# Introduction to ML
